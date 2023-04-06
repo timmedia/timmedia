@@ -19,14 +19,14 @@
       <img height="25" src="https://img.shields.io/badge/Vercel-1C1E24.svg?style=for-the-badge&logo=Vercel&logoColor=white"/>
     </div>
  </li>-->
-  <li>
+  <!--<li>
     <strong><a href="https://github.com/timmedia/musikalischesfenster-astro/" target="_blank">Musikalisches Fenster</a></strong>: Static site generation for a local non-profit.
     <div>
       <img height="25" src="https://img.shields.io/badge/Astro-1C1E24.svg?style=for-the-badge&logo=Astro&logoColor=FF5D01"/>
       <img height="25" src="https://img.shields.io/badge/Svelte-1C1E24.svg?style=for-the-badge&logo=Svelte&logoColor=FF3E00"/>
       <img height="25" src="https://img.shields.io/badge/Tailwind%20CSS-1C1E24.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4"/>
     </div>
- </li>
+ </li>-->
   <!--<li>
     <b>City-OL App</b>: Interactive Orienteering in your pocket. Android, iOS, PWA.
     <div>
